@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GBK"?>
+<TradeData>
+   <BaseInfo>
+      <TranDate>20170412</TranDate>
+      <TranTime>164708</TranTime>
+      <TranNo>SX201704121647068905</TranNo>
+      <Flag>1</Flag>   <!-- 成功失败标记1.成功 0 失败 -->
+      <Desc>https://ab-epolicy-dat.s3.cn-north-1.amazonaws.com.cn/86130000/10981300160000024046.pdf?X-Amz-Security-Token=FQoDYXdzEOn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDBo1iKzHH7cLrrjNOCKkA%2FI%2BwY86OfMhwG69ARQCqyczgtivn6YXrwClzbqMmHoFJfLUI96AiXVMLS94daFTu1qtYel8AMRsMu85sSiwtqI1%2BYEI8ziAdtTVns8QqMngrHPZjmZvrWRauxPyafkhwHk3B8J2Iw3MW9mX0uVQgEiyl%2FnTwXhv8GIgsJOtailvTg6NH%2BAEIIqBgN9228nwUer56LTKZIpAGvguCeL2C7%2FF7ZZ%2Bit58tVlX1yGLFsIkCL75uH%2Bn8N444IP%2BAjae8Br1%2B4nLgnPbGwcg1lOpaMvqgcpssOEBZz7hZ%2FmOuKTvk6pPuRpOxNvP02PZgmqJ7bS8ukutyKKFMjrfa0yyBFmi5wCTpohYG5pcFVDkn17WH0U2OmFV2FJg6j9k5rbwpn%2Fu5M%2BA%2FOxTQNY3GV9%2BuF2HwS0Aa%2FO5kqj50us2ZhG4dOoTa2n5dr%2BcyQNyeyxYStyXP5yZA9T9b4VxUoajEIC%2Fm82m8UcWo%2BSARMILQemUGFesG3f3zeD5QHIPGS9NNTkkZcdFRcEqwmtF9003tUrm%2B7O2TRKUxOM13q8ZRcWnszq9yii0xN7CBQ%3D%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20161219T095232Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=299&amp;X-Amz-Credential=ASIAPXAA6E7OOVF6NEEQ%2F20161219%2Fcn-north-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=fd36d6e10caa6159857b70982aa9fd7830edc99e848f2c24c7b072b653567b71</Desc>		<!-- 保单下载地址 -->
+      <AppntMobile>15375649627</AppntMobile>
+   </BaseInfo>
+</TradeData>
